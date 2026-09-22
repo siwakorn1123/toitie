@@ -1,0 +1,6 @@
+{
+  "name": "BrewCraft POS",
+  "description": "ระบบจัดการร้านกาแฟ จุดขายแคชเชียร์ หน้าจอบาร์ & คิว (KDS) คลังวัตถุดิบ & สูตรชง และรายงานยอดขาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
